@@ -1,0 +1,4 @@
+storePassword=222111
+keyPassword=222111
+keyAlias=key
+storeFile=/Users/jiachangyang/key.jks
